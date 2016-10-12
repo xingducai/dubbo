@@ -81,7 +81,7 @@
     </profiles>
     <properties>
 
-        <!--change -->
+        <!--change  -->
         <spring_version>4.1.7.RELEASE</spring_version>
         <fastjson_version>1.2.5</fastjson_version>
 
